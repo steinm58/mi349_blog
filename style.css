@@ -1,0 +1,97 @@
+body {
+    background-color: #F9F7F3;
+    margin: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+header {
+    text-align: center;
+    background-color: #B0C4B1;
+    border: 10px #608062 solid;
+    padding-bottom: 20px;
+}
+
+.p-nav {
+    display: inline;
+}
+
+.a-nav {
+    color: #E79CAA;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+a:hover {
+    opacity: 50%;
+}
+
+nav {
+    font-size: 25px;
+}
+
+h3 {
+    font-size: 25px;
+    margin: 0;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.title {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+hr {
+    border: 3px solid #B0C4B1;
+    width: 80%;
+}
+
+.post {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    width: 80%;
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+.text-box {
+    display: flex;
+    background-color: #F3CED5;
+    border: 10px #E79CAA solid;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 60%;
+}
+
+.text {
+    width: 70%;
+    align-self: center;
+}
+
+.post-image {
+    height: 280px;
+    width: 200px;
+    align-self: center;
+    margin: auto;
+}
+
+.newsletter {
+    text-align: center;
+}
+
+.table-row {
+    background-color: #F1EDE4;
+}
+
+.table-header {
+    background-color: #EAE3D7;
+}
